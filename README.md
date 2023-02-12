@@ -2,6 +2,9 @@
 A website developed to raise the awareness of HIV among young women with the use of mini-games. 
 
 # Installation 🔌
+1. Download the .zip folder on your computer.
+2. Unzip it and find the .exe file. 
+3. Double-clicking to start the game. Advisable to open the program with Unity.
 
 # Screenshots
 Condom shooting game
