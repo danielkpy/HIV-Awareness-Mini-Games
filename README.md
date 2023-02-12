@@ -1,4 +1,4 @@
-# HIV-Awareness-Website
+# Final Year Project: HIV-Awareness
 A website developed to raise the awareness of HIV among young women with the use of mini-games. 
 
 # Screenshots
