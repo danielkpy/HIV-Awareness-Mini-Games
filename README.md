@@ -1,4 +1,4 @@
-# Final Year Project: HIV-Awareness-Games
+# Final Year Project: HIV-Awareness-Mini-Games
 A website developed to raise the awareness of HIV among young women with the use of mini-games. 
 
 # Installation 🔌
