@@ -1,5 +1,7 @@
-# Final Year Project: HIV-Awareness
+# Final Year Project: HIV-Awareness-Games
 A website developed to raise the awareness of HIV among young women with the use of mini-games. 
+
+# Installation 🔌
 
 # Screenshots
 Condom shooting game
